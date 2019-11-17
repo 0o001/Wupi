@@ -1,0 +1,74 @@
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\bin\Debug\wupi.exe.config
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\bin\Debug\wupi.exe
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\bin\Debug\wupi.pdb
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.exe
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.pdb
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+c:\users\cbs\documents\visual studio 2013\Projects\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+C:\Users\Cbs\Desktop\wupi\wupi\bin\Debug\wupi.exe.config
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.exe
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.pdb
+C:\Users\Cbs\Desktop\wupi\wupi\bin\Debug\wupi.exe
+C:\Users\Cbs\Desktop\wupi\wupi\bin\Debug\wupi.pdb
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+C:\Users\Cbs\Desktop\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\wupi\wupi\bin\Debug\wupi.exe.config
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.exe
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.pdb
+C:\Users\mustafa\Desktop\wupi\wupi\bin\Debug\wupi.exe
+C:\Users\mustafa\Desktop\wupi\wupi\bin\Debug\wupi.pdb
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+C:\Users\mustafa\Desktop\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+F:\wupi\wupi\bin\Debug\wupi.exe.config
+F:\wupi\wupi\obj\Debug\wupi.exe
+F:\wupi\wupi\obj\Debug\wupi.pdb
+F:\wupi\wupi\bin\Debug\wupi.exe
+F:\wupi\wupi\bin\Debug\wupi.pdb
+F:\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+F:\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+F:\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+F:\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+F:\wupi\wupi\obj\Debug\wupi.frm_kopya.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\bin\Debug\wupi.exe.config
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.exe
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\bin\Debug\wupi.exe
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\bin\Debug\wupi.pdb
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.frm_kopya.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\Arkaplan Değiştirici\wupi\wupi\bin\Debug\wupi.exe.config
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.exe
+C:\Users\musta\Desktop\Masaüstü\Sağ masaüstü\nullDB\Uygulamalar\Yayına Hazır\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.pdb
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\bin\Debug\wupi.exe.config
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.exe
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.pdb
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\bin\Debug\wupi.exe
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\bin\Debug\wupi.pdb
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.frm_indir.resources
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.frm_kopya.resources
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.Properties.Resources.resources
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\Interop.Shell32.dll
+C:\Users\musta\Desktop\Arkaplan Değiştirici\wupi\wupi\obj\Debug\wupi.csproj.ResolveComReference.cache
+C:\Users\musta\Desktop\Wupi\bin\Debug\Wupi.exe.config
+C:\Users\musta\Desktop\Wupi\bin\Debug\Wupi.exe
+C:\Users\musta\Desktop\Wupi\bin\Debug\Wupi.pdb
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\Wupi\obj\Debug\Interop.Shell32.dll
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.csproj.ResolveComReference.cache
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.Properties.Resources.resources
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\Wupi\obj\Debug\Wupi.exe
+C:\Users\musta\Desktop\Wupi\obj\Debug\Wupi.pdb
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.frm_copy.resources
+C:\Users\musta\Desktop\Wupi\obj\Debug\wupi.frm_wallpaper.resources
